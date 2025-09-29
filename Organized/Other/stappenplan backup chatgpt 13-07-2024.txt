@@ -1,0 +1,56 @@
+
+
+Open chrome browser en log in met het account waarop je chatgpt hebt staan.
+
+Open chatgpt en log in
+instaleer superpower chatgpt addon in chrome https://chromewebstore.google.com/detail/superpower-chatgpt
+activeer deze
+ververs de chatgpt pagina
+autosync zal gaan beginnen
+
+klik links op de settings van superpower chatgpt
+klik op my prompt history en klik op export chat
+kies voor markdown en start de export
+
+Export compleet? Dan staat alles in een map in downloads. 
+
+installeer Pandoc als admin
+Installeer LaTex door TeX Live te instaleren, ook als admin. Dit duurt een tijdje.
+Ik had gekozen voor de mirror van de universiteit.
+-Create een batch file op de volgende manier:
+Kopieer de hele text tussen de lijntjes, exclusief de lijntjes. Pas 2 dingen aan, de input map en de output map
+
+---------------------------------------
+
+@echo off
+setlocal enabledelayedexpansion
+
+:: Stel het pad naar je basismap in
+set BASE_DIR=C:\Users\RTX2060\Downloads\2024-07-12-conversations
+:: Stel het pad naar je output map in
+set OUTPUT_DIR=C:\Users\RTX2060\Downloads\2024-07-12-conversations\Output PDF
+
+:: Zorg ervoor dat de output map bestaat
+if not exist "%OUTPUT_DIR%" mkdir "%OUTPUT_DIR%"
+
+:: Ga naar de basismap
+cd /d %BASE_DIR%
+
+:: Loop door alle submappen
+for /r %%d in (.) do (
+    pushd %%d
+    :: Loop door alle Markdown-bestanden in de huidige submap
+    for %%f in (*.md) do (
+        echo Converting %%f to PDF...
+        pandoc "%%f" -o "%OUTPUT_DIR%\%%~nf.pdf" --
+    )
+    popd
+)
+
+echo Conversie voltooid!
+pause
+
+------------------------------------------
+
+
+

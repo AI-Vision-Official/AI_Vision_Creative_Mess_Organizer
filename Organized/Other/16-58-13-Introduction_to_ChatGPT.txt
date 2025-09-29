@@ -1,0 +1,50 @@
+>> USER: Als ik mijn moeder een linkje wil sturen om met jou kennis te laten maken wat voor linke moet ik haar dan geven?
+
+>> ASSISTANT: Je kunt je moeder de link naar de ChatGPT website geven, waar ze toegang kan krijgen tot deze chatdienst. Hier is de link:
+
+[https://chat.openai.com](https://chat.openai.com)
+
+Als je moeder een specifiek account of app moet gebruiken, zorg er dan voor dat ze de ChatGPT app downloadt van de iOS App Store of Google Play Store, afhankelijk van haar apparaat.
+
+Je kunt haar ook uitleggen dat ze ChatGPT kan gebruiken om allerlei vragen te stellen, hulp te krijgen bij verschillende onderwerpen, of gewoon een gesprek te voeren zoals we nu doen.
+
+>> USER: Ik heb een Apple pen en een 3e generatie iPad Pro is er een gratis programma waarmee ik kan tekenen 
+
+
+>> ASSISTANT: Ja, er zijn verschillende gratis programma's die je kunt gebruiken om te tekenen op je iPad Pro met een Apple Pencil. Hier zijn een paar van de beste opties:
+
+1. **Adobe Fresco**:
+   - Adobe Fresco is een krachtige teken- en schilderapp die gratis beschikbaar is. Het biedt een breed scala aan penseelopties, waaronder zowel pixel- als vectorborstels, en een gebruiksvriendelijke interface. Er is een premium versie met extra functies, maar de gratis versie is ook zeer uitgebreid.
+   - [Adobe Fresco in de App Store](https://apps.apple.com/nl/app/adobe-fresco/id1458660369)
+
+2. **Autodesk SketchBook**:
+   - SketchBook is een populaire tekenapp die vroeger betaald was, maar nu gratis beschikbaar is. Het biedt een uitgebreide set tools, waaronder verschillende penseeltypen en aanpassingsmogelijkheden.
+   - [Autodesk SketchBook in de App Store](https://apps.apple.com/nl/app/sketchbook/id883738213)
+
+3. **MediBang Paint**:
+   - MediBang Paint is een veelzijdige app voor zowel tekenen als schilderen, vooral populair bij striptekenaars. Het biedt veel verschillende borstels en lagenopties, en synchroniseert met de cloud zodat je gemakkelijk toegang hebt tot je werk op verschillende apparaten.
+   - [MediBang Paint in de App Store](https://apps.apple.com/nl/app/medibang-paint/id932717629)
+
+4. **Tayasui Sketches**:
+   - Tayasui Sketches is een intuïtieve tekenapp die bekend staat om zijn eenvoudige en elegante interface. De gratis versie biedt een goede selectie aan borstels en tools, en je kunt upgraden naar de Pro-versie voor meer functies.
+   - [Tayasui Sketches in de App Store](https://apps.apple.com/nl/app/tayasui-sketches/id641900855)
+
+Deze apps bieden allemaal uitstekende mogelijkheden om te tekenen en schilderen met je Apple Pencil op je iPad Pro. Je kunt ze proberen om te zien welke het beste bij jouw tekenstijl en voorkeuren past.
+
+>> USER: Ik wi op zich iets waar ik prototype modellen mee kan ontwerpen die met name op mijn eigen iPad blijven staan.
+
+>> ASSISTANT: Als je op zoek bent naar een app waarmee je prototype modellen kunt ontwerpen op je iPad Pro en waarbij de bestanden op je eigen apparaat blijven staan, zijn hier een paar opties die je kunt overwegen:
+
+1. **Concepts**:
+   - Concepts is een geavanceerde tekenapp die zich richt op schetsen, ontwerpen en prototyping. Het biedt nauwkeurige linialen, tools voor technische tekeningen en lagenbeheer. Je kunt met Concepts gedetailleerde ontwerpen maken die op je iPad blijven staan.
+   - [Concepts in de App Store](https://apps.apple.com/nl/app/concepts/id560586497)
+
+2. **Affinity Designer**:
+   - Affinity Designer is een krachtige vectorgrafische ontwerpapp waarmee je gedetailleerde illustraties, UI-ontwerpen en prototype modellen kunt maken. Het biedt geavanceerde tools zoals pen- en vectorborstels, lagenbeheer en ondersteuning voor Apple Pencil.
+   - [Affinity Designer in de App Store](https://apps.apple.com/nl/app/affinity-designer/id1274090551)
+
+3. **Procreate**:
+   - Hoewel Procreate voornamelijk bekend staat als een teken- en schilderapp, kun je met de geavanceerde tools en lagenopties ook prototype modellen ontwerpen. Het is zeer populair onder creatieve professionals vanwege zijn flexibiliteit en krachtige functies.
+   - [Procreate in de App Store](https://apps.apple.com/nl/app/procreate/id425073498)
+
+Deze apps bieden verschillende mogelijkheden om prototype modellen te ontwerpen op je iPad Pro, terwijl je bestanden lokaal op je eigen apparaat kunt opslaan. Ze zijn ontworpen om te voldoen aan de behoeften van creatieve professionals en bieden een breed scala aan tools en functies om je ideeën tot leven te brengen.
